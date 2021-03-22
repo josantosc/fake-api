@@ -1,0 +1,12 @@
+.env*
+
+.vscode/
+
+node_modules/
+coverage/
+
+debug.json
+
+.vscode/
+test-report.xml
+yarn-error.log
