@@ -1,0 +1,24 @@
+
+#ATUALIZAÇÃO CLIENTE
+
+GET https://financeiro.prod.mateus/cliente/:cpf=XXXXXXXXXXX
+Content-type: application/json
+
+{
+  "cpf": "XXX.XXX.XXX-YY",
+  "codigo cliente": 8629456,
+}
+
+POST https://financeiro.prod.mateus/cliente/:cpf=XXXXXXXXXXX
+Content-type: application/json
+--data '{
+  "nome": "NOME COMPLETO",
+  "data nascimento": "XX/XX/XXXX",
+  "cpnj": "XX.XXX.XXX/XXXX-XX",
+  "data abertura": "XX/XX/XXXX"
+  "foto": "http://foto-cliente-link.data.mateus/"
+}'
+
+{
+  "ok": "true"
+}

@@ -1,8 +1,8 @@
 {
-  "posts": [
+  "cliente": [
     {
-      "id": 1,
-      "title": "hello"
+      "cpf": "XXX.XXX.XXX-YY",
+      "codigo cliente": 8629456
     }
   ],
   "profile": {
