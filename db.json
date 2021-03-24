@@ -2,7 +2,6 @@
   "cliente": [
     {
       "id": 1,
-      "title": "hello",
       "cpf": "00033333300",
       "codigo cliente": 8629456
     }
