@@ -5,6 +5,8 @@
 node_modules/
 coverage/
 
+.http
+
 debug.json
 
 .vscode/
