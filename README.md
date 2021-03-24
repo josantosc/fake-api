@@ -1,3 +1,3 @@
 # My Json Server
 
-## By Jó Santos
+## By BlackBot
