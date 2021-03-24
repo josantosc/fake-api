@@ -4,6 +4,11 @@
       "id": 1,
       "cpf": "00033333300",
       "codigo cliente": 8629456
+    },
+    {
+      "id": 2,
+      "cpf": "11133333300",
+      "codigo cliente": 8629457
     }
   ],
   "profile": {
