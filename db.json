@@ -19,12 +19,48 @@
       "cnpj": "07763815000153",
       "codigo": 8629459
     },
-    { "cpf": "77733333307", "codigo": 8629411, "status": 3 }
+    {
+      "cpf": "77733333307",
+      "codigo": 8629411,
+      "status": 3
+    }
+  ],
+  "financeiro-cliente": [
+    {
+      "printRG": "https://image.freepik.com/vetores-gratis/documentos-confirmados-ou-aprovados_149152-439.jpg",
+      "fullName": "Jean Saints",
+      "cpf": "02910986306",
+      "cnpj": "07763815000153",
+      "dateOfBirth": "1987-02-17T03:00:00.000Z",
+      "dateCreateCompany": "1987-02-17T03:00:00.000Z",
+      "id": 1
+    },
+    {
+      "printRG": "https://image.freepik.com/vetores-gratis/documentos-confirmados-ou-aprovados_149152-439.jpg",
+      "fullName": "Jean Saints",
+      "cpf": "02910986306",
+      "cnpj": "07763815000153",
+      "dateOfBirth": "1987-02-17T03:00:00.000Z",
+      "dateCreateCompany": "1987-02-17T03:00:00.000Z",
+      "id": 2
+    }
   ],
   "baseBlackBot": [
-    { "cpf": "00033333300", "codigo": 8629456, "status": 1 },
-    { "cpf": "11133333300", "codigo": 8629458, "status": 2 },
-    { "cpf": "77733333307", "codigo": 8629411, "status": 3 }
+    {
+      "cpf": "00033333300",
+      "codigo": 8629456,
+      "status": 1
+    },
+    {
+      "cpf": "11133333300",
+      "codigo": 8629458,
+      "status": 2
+    },
+    {
+      "cpf": "77733333307",
+      "codigo": 8629411,
+      "status": 3
+    }
   ],
   "profile": {
     "name": "typicode"
